@@ -34,7 +34,7 @@ exports.signup = async (req, res) => {
     ) {
       return res.status(403).send({
         success: false,
-        message: "All Fields are required",
+        message: "All Fields are required please fill ",
       })
     }
     // Check if password and confirm password match
