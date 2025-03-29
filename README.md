@@ -1,4 +1,4 @@
-# StudyNotion Edtech Project
+# Vector Edtech Project
 
 
 
